@@ -19,4 +19,4 @@ While modern Java provides built-in collections like `ArrayList` for easier data
 **Why?**
 - **Algorithmic Mastery:** Writing custom logic for insertion, shifting elements during deletion, and handling duplicates from scratch builds a much stronger foundation than relying on pre-built methods.
 - **Memory & Resource Control:** Manually tracking the element count and managing the array boundaries provides hands-on experience with how data is actually structured and constrained in memory.
-- **The Security Mindset:** As a cybersecurity student, understanding low-level data handling and memory limits (like preventing buffer overflows by capping the array at 1000) is far more valuable than simply taking the "easy route" with dynamic lists.
+- **The Security Mindset:** As a cybersecurity student, understanding low-level data handling and memory limits (like preventing buffer overflows by capping the array at 10000) is far more valuable than simply taking the "easy route" with dynamic lists.
